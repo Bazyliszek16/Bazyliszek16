@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bazyliszek16
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, Ray_xC
+- 👀 I’m interested in coding (Python and Lua)
+- 🌱 I’m currently learning Roblox Lua
+- 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me ...
 
 <!---
